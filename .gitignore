@@ -1,0 +1,9 @@
+
+# PS-LANG user-specific files
+.ps-lang/
+.ps-lang/config/user-*.json
+.ps-lang/.cache/
+
+# Handoffs (agent-to-agent docs)
+handoffs/
+
